@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: linear-gradient(red,white,green);
+}
+
+slider img{
+height: 400px;
+width: 100%;
+
+}
+.top{
+    height: 20px;
+    font-size: 12px;font-weight: bold;
+    
+}
+.topicon{
+    text-align:center;
+}
+.topicon a i{
+    color: black;
+}
+.navbar2 nav ul a{
+text-decoration: none;
+display: flex;
+font-weight: bold;
+font-size: 22px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:blue ;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+.a{
+    background-color: red;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.foot{
+    text-align: center;
+background-color: brown;
+color:whitesmoke;
+}
+.gallerybg{
+    background-image: url("/img/decorativeaboutbg.avif");
+    background-size:100% 100%;
+}
